@@ -15,11 +15,11 @@ while(index>i){
 arr[index]=arr[index-1];
 index--;
 }
+	
+}
 arr[i]=value;
 i++;
-j++;	
-}
-
+j++;
 }
 }
 
